@@ -1,4 +1,5 @@
 🌟 Welcome to Noor's GitHub! 🌟
+
 Hi there! I'm Noor, a passionate software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
 
 ----------🚀 About Me----------
@@ -46,7 +47,6 @@ Python
 Node.js, Prisma
 
 Tools & Platforms:
-
 Git, GitHub
 Figma
 Visual Studio Code (VS Code)
