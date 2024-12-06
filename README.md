@@ -6,28 +6,39 @@ Hi there! I'm Noor, a passionate software developer exploring the world of Pytho
 👀 Interests:
 
 🖥️ Software Development
+
 🎨 UI/UX Design
+
 💡 Building Innovative Tech Solutions
 
 ----------🌱 Currently Learning:----------
+
 📚 Data Structures & Algorithms
+
 🐍 Exploring the Python world through different libraries
 
 ----------💞️ Looking to Collaborate On:----------
+
 🌐 Open-source projects
+
 🛠️ Creative applications that make a difference
 
 ----------📫 How to Reach Me:----------
+
 🌐 https://www.linkedin.com/in/noor-verma/
+
 ✉️ vermanoor89@gmail.com
 
 ----------😄 Pronouns:----------
+
 She/Her
 
 ----------⚡ Fun Fact:----------
+
 I love blending functionality with aesthetic designs and experimenting with new technologies! ☕
 
 ----------🛠️ My Skills----------
+
 Languages & Frameworks:
 HTML, CSS, JavaScript
 React.js, Next.js
@@ -35,16 +46,22 @@ Python
 Node.js, Prisma
 
 Tools & Platforms:
+
 Git, GitHub
 Figma
 Visual Studio Code (VS Code)
 Vercel, Docker
 
 ----------🧩 Interests----------
+
 🏔️ Exploring mountain trails
+
 🍰 Baking creative desserts
+
 🎮 Solving puzzles and playing mind-bending games
+
 🌐 Discovering cutting-edge technologies
+
 Thanks for visiting my profile! Feel free to connect or collaborate. Let's build something amazing together! 💻💡
 
 <!---
