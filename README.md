@@ -1,4 +1,5 @@
 🌟 Welcome to Noor's GitHub! 🌟
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi there! I'm Noor, a passionate software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
 
@@ -10,13 +11,13 @@ Hi there! I'm Noor, a passionate software developer exploring the world of Pytho
 
 🎨 UI/UX Design
 
-💡 Building Innovative Tech Solutions
+💡 Data Analysis
 
 🌱 Currently Learning
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Data Structures & Algorithms
 
-🐍 Exploring the Python world through different libraries
+🐍 Exploring the world of python through different libraries
 
 💞️ Looking to Collaborate On
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -34,26 +35,24 @@ Hi there! I'm Noor, a passionate software developer exploring the world of Pytho
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 She/Her
 
-----------⚡ Fun Fact:----------
-
+⚡ Fun Fact
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I love blending functionality with aesthetic designs and experimenting with new technologies! ☕
 
-----------🛠️ My Skills----------
-
+🛠️ My Skills
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Languages & Frameworks:
-HTML, CSS, JavaScript
-React.js, Next.js
-Python
-Node.js, Prisma
+HTML, CSS, JavaScript,
+React.js, Next.js,
+Python,
+Node.js, SQL
 
 Tools & Platforms:
 Git, GitHub
-Figma
-Visual Studio Code (VS Code)
-Vercel, Docker
+Figma, Docker
 
-----------🧩 Interests----------
-
+🧩 Interests
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏔️ Exploring mountain trails
 
 🍰 Baking creative desserts
