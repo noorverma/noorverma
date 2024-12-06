@@ -2,7 +2,9 @@
 Hi there! I'm Noor, a passionate software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
 
 ----------🚀 About Me----------
+
 👀 Interests:
+
 🖥️ Software Development
 🎨 UI/UX Design
 💡 Building Innovative Tech Solutions
