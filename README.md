@@ -1,4 +1,4 @@
-🌟 Welcome to Noor's GitHub! 🌟
+🌟 Welcome to my GitHub! 🌟
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi there! I'm Noor, a software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
