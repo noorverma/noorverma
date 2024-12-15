@@ -1,7 +1,7 @@
 🌟 Welcome to Noor's GitHub! 🌟
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hi there! I'm Noor, a passionate software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
+Hi there! I'm Noor, a software developer exploring the world of Python and mastering Data Structures & Algorithms. ✨
 
 🚀 About Me
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,27 +17,13 @@ Hi there! I'm Noor, a passionate software developer exploring the world of Pytho
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Data Structures & Algorithms
 
-🐍 Exploring the world of python through different libraries
-
-💞️ Looking to Collaborate On
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌐 Open-source projects
-
-🛠️ Creative applications that make a difference
+🐍 Exploring the world of python through different libraries and frameworks.
 
 📫 How to Reach Me
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌐 https://www.linkedin.com/in/noor-verma/
 
 ✉️ vermanoor89@gmail.com
-
-😄 Pronouns
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-She/Her
-
-⚡ Fun Fact
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I love blending functionality with aesthetic designs and experimenting with new technologies! ☕
 
 🛠️ My Skills
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -50,18 +36,6 @@ Node.js, SQL
 Tools & Platforms:
 Git, GitHub
 Figma, Docker
-
-🧩 Interests
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🏔️ Exploring mountain trails
-
-🍰 Baking creative desserts
-
-🎮 Solving puzzles and playing mind-bending games
-
-🌐 Discovering cutting-edge technologies
-
-Thanks for visiting my profile! Feel free to connect or collaborate. Let's build something amazing together! 💻💡
 
 <!---
 noorverma/noorverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
